@@ -1,5 +1,5 @@
 
-# Youtube Video Downlaoder Script 
+# Youtube Downlaoder Script 
 
 A Script Written In Python Let You Download Videos From Youtube For "Free" And With Any Quality And Any Type You Want In The Terminal 
 
@@ -19,7 +19,7 @@ Install Python And Git From These Official Sources
 Then With The Pip Package Manager Install Pytube
 
 ```bash
-  pip install pytube
+  pip install yt_dlp
 ```
 Then Clone This Repository Using Git With This Command 
 
