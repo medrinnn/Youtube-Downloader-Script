@@ -16,7 +16,7 @@ Install Python And Git From These Official Sources
 - [Python](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads)
 
-Then With The Pip Package Manager Install yt_dlp
+In The Terminal Then With The Pip Package Manager Install yt_dlp
 
 ```bash
   pip install yt_dlp
